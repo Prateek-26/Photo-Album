@@ -1,4 +1,4 @@
-# For this only has frontend and more features have to be added.
+This only has frontend and more features are to be added.
 
 # Getting Started with Create React App
 
