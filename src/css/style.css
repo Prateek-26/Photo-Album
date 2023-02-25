@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.heading-icon{
+    margin-right: 1rem;
+}
+.main-div{
+    padding: 2rem;
+    background: rgb(238, 238, 238);
+}
+.btn{
+    margin-top: 1rem;
+    background: #000;
+}
+.card-grid{
+    /* background: #000; */
+    padding: 20px 0;
+}
+.card{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 2px solid black;
+}
+.card-media{
+    padding-top: 56.25%;
+}
+.card-content{
+    flex-grow: 1;
+}
+.footer{
+    background: rgb(238, 238, 238);
+    padding: 5px;   
+}
